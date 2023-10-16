@@ -438,6 +438,7 @@ section {
     -ms-grid-columns: (minmax(16rem, 1fr))[auto-fit];
         grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
     gap: 1.5rem;
+    padding-top: 5%;
   }
   
   .skills .box-container .box {
